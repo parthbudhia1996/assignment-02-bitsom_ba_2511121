@@ -1,0 +1,22 @@
+[
+  {
+    "product_id": "E101",
+    "category": "Electronics",
+    "name": "Smart Watch",
+    "specs": { "warranty": "2 years", "voltage": "5V", "battery": "400mAh" },
+    "tags": ["wearable", "tech"]
+  },
+  {
+    "product_id": "C202",
+    "category": "Clothing",
+    "name": "Cotton T-Shirt",
+    "attributes": { "size": "L", "material": "100% Cotton", "color": "Blue" }
+  },
+  {
+    "product_id": "G303",
+    "category": "Groceries",
+    "name": "Organic Milk",
+    "expiry_date": "2026-04-20",
+    "nutritional_info": { "calories": 150, "fat": "8g" }
+  }
+]
